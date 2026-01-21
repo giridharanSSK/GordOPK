@@ -1,17 +1,32 @@
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HyJjHK5zB2) 
 # GordOPK
-DLL injetável para conectar o OpenKore ao cliente Ragnarök Online LATAM.
+*DLL injetável **simples** para conectar o OpenKore ao cliente Ragnarök Online LATAM.*
+
+Este código é uma versão reduzida e **muito** comentada para fins de aprendizado e desenvolvimento: não possui interface gráfica, notificações nem outros recursos que fogem do conceito da simplicidade. É só **compilar e rodar!**
+
+Você só precisa garantir que os ponteiros estejam de acordo com a versão do `Ragexe.exe` mantida.
+
+**Acesse o [Discord da comunidade!](https://discord.gg/HyJjHK5zB2)**
 
 ## Requisitos
 - Visual Studio 2017 ou mais recente
 	- Compilador MSVC com suporte ao C++23 e x86 (Win32)
-- Python 3.11 (para uso de ferramentas)
+- Python 3.11 (opcional, apenas para uso de ferramentas)
 
-# Compilando
-- Abra `build.bat`
-- Copie o GordOPK.asi para a pasta raiz do jogo
-- Inicie o OpenKore e o jogo
+## Compilando
+- Execute o `build.bat`: será gerado o `GordOPK.asi` na mesma pasta
+- Copie o `GordOPK.asi` para a pasta raiz do jogo
+- Inicie o OpenKore e o jogo - as configurações do OpenKore é de **sua responsabilidade!**
 
-# Obrigado!!
+## A fazer
+- Tutorial de como obter ponteiros + básico de engenharia reversa
+- Tópico completo da DLL no Discord
+- Documentação do código
+
+## Contribua e compartilhe!
+Ajude a democratizar o acesso **gratuito** ao OpenKore, **como tem que ser**!
+
+### Obrigado pelas estrelas!!
 <a href="https://www.star-history.com/#Brunnexo/GordOPK&type=date&legend=bottom-right">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Brunnexo/GordOPK&type=date&theme=dark&legend=bottom-right" />
