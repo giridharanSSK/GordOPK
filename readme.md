@@ -18,15 +18,14 @@ Você só precisa garantir que os ponteiros estejam de acordo com a versão do `
 - Copie o `GordOPK.asi` para a pasta raiz do jogo
 - Inicie o OpenKore e o jogo - as configurações do OpenKore é de **sua responsabilidade!**
 
-## A fazer
-- Tutorial de como obter ponteiros + básico de engenharia reversa
-- Tópico completo da DLL no Discord
-- Documentação do código
+### Extraindo ponteiros
+Veja detalhes [aqui!](etc/Ponteiros/extraindo.md)
 
 ## Contribua e compartilhe!
 Ajude a democratizar o acesso **gratuito** ao OpenKore, **como tem que ser**!
 
 ### Obrigado pelas estrelas!!
+Estrelas motivam!
 <a href="https://www.star-history.com/#Brunnexo/GordOPK&type=date&legend=bottom-right">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Brunnexo/GordOPK&type=date&theme=dark&legend=bottom-right" />
