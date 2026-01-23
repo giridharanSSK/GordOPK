@@ -19,7 +19,7 @@ Você só precisa garantir que os ponteiros estejam de acordo com a versão do `
 - Inicie o OpenKore e o jogo - as configurações do OpenKore é de **sua responsabilidade!**
 
 ### Extraindo ponteiros
-Veja detalhes [aqui!](etc/Ponteiros/extraindo.md)
+Veja detalhes [aqui!](etc/ptr/extraindo.md)
 
 ## Contribua e compartilhe!
 Ajude a democratizar o acesso **gratuito** ao OpenKore, **como tem que ser**!
