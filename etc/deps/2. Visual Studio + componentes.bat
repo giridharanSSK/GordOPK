@@ -48,9 +48,9 @@ if %VS_ERROR% NEQ 0 (
     exit /b %VS_ERROR%
 )
 
+
 COLOR 20
-ECHO.
-ECHO.
+CLS
 ECHO #######################################
 ECHO ## Instalacao concluida com sucesso  ##
 ECHO #######################################

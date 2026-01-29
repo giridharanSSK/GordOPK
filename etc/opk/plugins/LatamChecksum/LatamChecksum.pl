@@ -80,7 +80,7 @@ sub calc_checksum {
 	}
 	
 	# Desempacota: 1 byte checksum + 8 bytes seed + 4 bytes counter
-	my ($checksum, $seed_low, $seed_high, $server_counter) = unpack("C Q L", $response);
+	my ($checksum, $seed_low, $seed_high, $server_counter) = unpack("C L L L", $response);
 	
 	# Atualiza seed atual
 	$current_seed = ($seed_high << 32) | $seed_low;
